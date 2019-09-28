@@ -24,7 +24,7 @@ namespace Kalkulator_WSB
 
             }
            }
-        {
+       
         }
     }
 }
