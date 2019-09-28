@@ -12,16 +12,16 @@ namespace Kalkulator_WSB
            
             while(true)
            {
+            Console.Writeline("0.Exit");
+            Console.Writeline("1.ADD");
+            Console.Writeline("2.DIFF");
+            Console.Writeline("3.MULL");
             int menuOption = Convert.ToInt32(Console.ReadLine());
             Console.Writeline("0.Exit");
-            
-            
             if (menuOption == 0)
             {
             break;
 
-            Console.Writeline("1.ADD");
-            Console.Writeline("2.DIFF");
             }
            }
         {
